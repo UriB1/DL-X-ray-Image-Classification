@@ -1,6 +1,6 @@
 # DL - X-ray Image Classification-
 ## Overview
-This report explores the application of deep learning techniques to classify Chest X-ray images as healthy or unhealthy. The project involves a dataset of 5863 X-ray images categorized into "NORMAL" and "PNEUMONIA" classes. The primary goal is to develop models capable of accurately identifying health status based on X-ray images, first in binary classification (healthy or sick) and then in multi-class classification (differentiating bacterial and viral pneumonia).
+This project explores the application of deep learning techniques to classify Chest X-ray images as healthy or unhealthy. The project involves a dataset of 5863 X-ray images categorized into "NORMAL" and "PNEUMONIA" classes. The primary goal is to develop models capable of accurately identifying health status based on X-ray images, first in binary classification (healthy or sick) and then in multi-class classification (differentiating bacterial and viral pneumonia).
 The project exploring KNN algorithm with embedding vectors, t-SNE visualization, and applying unsupervised learning for anomaly detection. Each phase offering unique challenges and insights, contributing to a deeper understanding of deep learning in medical imaging applications.
 
 ## Data Preparation
@@ -43,7 +43,7 @@ Various experiments were conducted to optimize model parameters, including learn
 
 ## Acknowledgments
 * The project database is hosted by Kaggle and can be accessed at the [attached link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
-* During the project, the Google Collab platform was used to gain access to GPU's to train the various models.
+* During the project, the Google Collab platform was used to gain access to GPU's in order to train the various models.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
